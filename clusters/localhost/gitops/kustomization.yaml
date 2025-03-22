@@ -12,6 +12,6 @@ resources:
   - cd.kustomization.yaml
   - install.kustomization.yaml
   - git-repository.yaml
-  - ambulance-ufe.image-repository.yaml
-  - ambulance-ufe.image-policy.yaml
+  - wac-fe.image-repository.yaml
+  - wac-fe.image-policy.yaml
   - image-update-automation.yaml

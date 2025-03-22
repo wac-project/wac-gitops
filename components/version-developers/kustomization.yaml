@@ -3,5 +3,5 @@ kind: Component
 
 images:
   - name: xdudakm/wac-fe
-    newName: xdudakm/wac-fe # {"$imagepolicy":  "wac-hospital:ambulance-ufe:name"}
-    newTag: main # {"$imagepolicy": "wac-hospital:ambulance-ufe:tag"}
+    newName: xdudakm/wac-fe # {"$imagepolicy":  "wac-hospital:wac-fe:name"}
+    newTag: main # {"$imagepolicy": "wac-hospital:wac-fe:tag"}

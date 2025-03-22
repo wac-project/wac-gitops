@@ -1,0 +1,11 @@
+apiVersion: polyfea.github.io/v1alpha1
+kind: WebComponent
+metadata:
+  name: wac-fe-content
+spec:
+  microFrontend: wac-fe
+  element: my-component
+  displayRules:
+    - allOf:
+        - context-name: main-content
+        - path: "^(\\.?/)?my-component(/.*)?$"

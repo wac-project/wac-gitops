@@ -8,4 +8,4 @@ spec:
   displayRules:
     - allOf:
         - context-name: main-content
-        - path: "^(\\.?/)?my-component(/.*)?$"
+        - path: "^(\\.?/)?wac-fe(/.*)?$"

@@ -4,8 +4,8 @@ metadata:
   name: wac-fe-content
 spec:
   microFrontend: wac-fe
-  element: my-component
+  element: app-component
   displayRules:
     - allOf:
         - context-name: main-content
-        - path: "^(\\.?/)?wac-fe(/.*)?$"
+        - path: "^(\\.?/)?app(/.*)?$"

@@ -5,4 +5,4 @@ metadata:
 spec:
   frontendClass: md-shell # default obsiahnutý v základe polyfea md-shell
   service: http://kdb-wac-fe.wac-hospital # referencia na službu odkiaľ sa má načítať modul
-  modulePath: /build/kdb-wac-fe.esm.js # cesta v rámci služby kde sa modul nachádza
+  modulePath: /build/wac-fe.esm.js # cesta v rámci služby kde sa modul nachádza

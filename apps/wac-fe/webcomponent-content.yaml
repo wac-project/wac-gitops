@@ -1,11 +1,11 @@
 apiVersion: polyfea.github.io/v1alpha1
 kind: WebComponent
 metadata:
-  name: wac-fe-content
+  name: kdb-wac-fe-content
 spec:
-  microFrontend: wac-fe
+  microFrontend: kdb-wac-fe
   element: app-component
   displayRules:
     - allOf:
         - context-name: main-content
-        - path: "^(\\.?/)?app(/.*)?$"
+        - path: "^(\\.?/)?kdb-app(/.*)?$"

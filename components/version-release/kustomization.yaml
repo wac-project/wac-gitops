@@ -3,4 +3,4 @@ kind: Component
 images:
   - name: xdudakm/wac-fe
     newName: xdudakm/wac-fe
-    newTag: 0.1.0  #aktuálna verzia docker obrazu, ktorú chcete aby používatelia - cvičiaci - videli nasadenú
+    newTag: 0.1.1  #aktuálna verzia docker obrazu, ktorú chcete aby používatelia - cvičiaci - videli nasadenú

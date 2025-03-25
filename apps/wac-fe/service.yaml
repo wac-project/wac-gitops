@@ -1,10 +1,10 @@
 kind: Service
 apiVersion: v1
 metadata:
-  name: wac-fe   #  určuje aj záznam DNS v rámci virtuálne siete klastra
+  name: kdb-wac-fe   #  určuje aj záznam DNS v rámci virtuálne siete klastra
 spec:
   selector:
-    pod: wac-fe-label     # zhoduje sa s metadata.labels šablóny pod-u
+    pod: kdb-wac-fe-label     # zhoduje sa s metadata.labels šablóny pod-u
   ports:
     - name: http
       protocol: TCP

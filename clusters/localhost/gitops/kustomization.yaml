@@ -14,4 +14,6 @@ resources:
   - git-repository.yaml
   - wac-fe.image-repository.yaml
   - wac-fe.image-policy.yaml
+  - wac-webapi.image-repository.yaml
+  - wac-webapi.image-policy.yaml
   - image-update-automation.yaml

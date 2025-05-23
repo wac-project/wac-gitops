@@ -10,6 +10,7 @@ labels:
 resources:
   - ../../../apps/wac-fe
   - ../../../apps/wac-webapi
+  - ../../../apps/mongo-express
 
 patches:
   - path: ./patches/kdb-webapi.service.yaml

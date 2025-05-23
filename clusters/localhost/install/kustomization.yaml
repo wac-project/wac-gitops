@@ -11,5 +11,8 @@ resources:
   - ../../../apps/wac-fe
   - ../../../apps/wac-webapi
 
+patches:
+  - path: ./patches/ambulance-webapi.service.yaml
+
 components:
   - ../../../components/version-developers

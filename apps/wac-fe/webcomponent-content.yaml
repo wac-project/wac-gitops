@@ -8,7 +8,7 @@ spec:
   attributes:
     - name: api-base
       value: /kdb-api
-displayRules:
-  - allOf:
-      - context-name: main-content
-      - path: "^(\\.?/)?kdb-app(/.*)?$"
+  displayRules:
+    - allOf:
+        - context-name: main-content
+        - path: "^(\\.?/)?kdb-app(/.*)?$"

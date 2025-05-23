@@ -16,3 +16,4 @@ patches:
 
 components:
   - ../../../components/version-developers
+  - https://github.com/wac-project/wac-api//deployments/kustomize/components/mongodb

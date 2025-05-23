@@ -4,3 +4,6 @@ images:
   - name: xdudakm/wac-fe
     newName: xdudakm/wac-fe # {"$imagepolicy":  "wac-hospital:wac-fe:name"}
     newTag: main.20250513.0540 # {"$imagepolicy": "wac-hospital:wac-fe:tag"}
+  - name: xdudakm/wac-webapi
+    newName: xdudakm/wac-webapi # {"$imagepolicy":  "wac-hospital:wac-webapi:name"}
+    newTag: main.20250425.0842 # {"$imagepolicy": "wac-hospital:wac-webapi:tag"}

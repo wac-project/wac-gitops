@@ -5,7 +5,10 @@ metadata:
 spec:
   microFrontend: kdb-wac-fe
   element: app-component
-  displayRules:
-    - allOf:
-        - context-name: main-content
-        - path: "^(\\.?/)?kdb-app(/.*)?$"
+  attributes:
+    - name: api-base
+      value: /kdb-api
+displayRules:
+  - allOf:
+      - context-name: main-content
+      - path: "^(\\.?/)?kdb-app(/.*)?$"

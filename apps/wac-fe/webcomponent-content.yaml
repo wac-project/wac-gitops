@@ -6,6 +6,8 @@ spec:
   microFrontend: kdb-wac-fe
   element: app-component
   attributes:
+    - name: base-path
+      value: /kdb-app/
     - name: api-base
       value: /kdb-api
   displayRules:

@@ -6,4 +6,4 @@ images:
     newTag: main.20250523.1456 # {"$imagepolicy": "wac-hospital:wac-fe:tag"}
   - name: xdudakm/wac-webapi
     newName: xdudakm/wac-webapi # {"$imagepolicy":  "wac-hospital:wac-webapi:name"}
-    newTag: main.20250425.0842 # {"$imagepolicy": "wac-hospital:wac-webapi:tag"}
+    newTag: main.20250523.0925 # {"$imagepolicy": "wac-hospital:wac-webapi:tag"}

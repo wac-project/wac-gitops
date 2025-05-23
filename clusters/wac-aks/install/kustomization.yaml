@@ -12,6 +12,7 @@ labels:
 
 resources:
   - ../../../apps/wac-fe
+  - ../../../apps/wac-webapi
 
 
 components:

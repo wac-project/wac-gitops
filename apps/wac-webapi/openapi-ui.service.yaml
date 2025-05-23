@@ -1,0 +1,12 @@
+kind: Service
+apiVersion: v1
+metadata:
+  name: kdb-openapi-ui
+spec:
+  selector:
+    pod: kdb-ambulance-webapi-label
+  ports:
+    - name: http
+      protocol: TCP
+      port: 80
+      targetPort: 8081

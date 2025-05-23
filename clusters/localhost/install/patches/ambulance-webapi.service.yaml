@@ -1,7 +1,7 @@
 kind: Service
 apiVersion: v1
 metadata:
-  name: kdb-ambulance-webapi
+  name: kdb-wac-webapi
 spec:
   type: NodePort
   ports:

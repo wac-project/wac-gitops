@@ -7,12 +7,12 @@ spec:
   element: polyfea-md-app # element, ktorý bude vložený na stránku
   attributes: # atribúty elementu polyfea-md-app
     - name: headline
-      value: Sledovanie výkonov v rámci jednotlivých ambulancií a ich ekonomické náklady
+      value: Informačný systém zdravotných výkonov
     - name: short-headline
-      value: Sledovanie výkonov v rámci jednotlivých ambulancií a ich ekonomické náklady
+      value: Informačný systém zdravotných výkonov
     - name: supporting-text
       value: |
-        Sledovanie výkonov v rámci jednotlivých ambulancií a ich ekonomické náklady
+        Informačný systém zdravotných výkonov
     - name: material-icon
       value: home_health
     - name: href # presmerovanie po kliknutí na element polyfea-md-app

@@ -3,7 +3,7 @@ kind: Component
 images:
   - name: xdudakm/wac-fe
     newName: xdudakm/wac-fe # {"$imagepolicy":  "wac-hospital:wac-fe:name"}
-    newTag: main.20250524.0719 # {"$imagepolicy": "wac-hospital:wac-fe:tag"}
+    newTag: main.20250524.0726 # {"$imagepolicy": "wac-hospital:wac-fe:tag"}
   - name: xdudakm/wac-webapi
     newName: xdudakm/wac-webapi # {"$imagepolicy":  "wac-hospital:wac-webapi:name"}
     newTag: main.20250523.1650 # {"$imagepolicy": "wac-hospital:wac-webapi:tag"}
